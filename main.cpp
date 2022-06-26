@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-	cout << "Course: C867 Scripting and Programming Applications" << endl;
-	cout << "Written in C++ by Sam Burns (ID:#001182947) 17MAY20" << endl;
+	cout << "Class Roster Program Written 17MAY20" << endl;
+	cout << "Written in C++ by Sam Burns" << endl;
 
 	int numStudents = 5;
 
@@ -14,7 +14,7 @@ int main() {
 		"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 		"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
 		"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-		"A5,Sam,Burns,sbur117@wgu.edu,29,10,20,30,SOFTWARE",
+		"A5,Sam,Burns,samburns492@wgu.edu,29,10,20,30,SOFTWARE",
 	};
 
 	Roster* ros = new Roster(numStudents);
