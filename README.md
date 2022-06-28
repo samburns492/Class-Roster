@@ -6,7 +6,7 @@ When ran the command line application will automatically run a number of functio
 These commands are defined in the main.cpp script. 
 A description of the steps is as follows:
 
-1. The program will print entire class roster.
+1. The program will print the entire class roster.
 2. The program will display any invalid email addresses.
 3. The program will display the average days left in the course for each student.
 4. The students pursuing a degree in SOFTWARE will be displayed
