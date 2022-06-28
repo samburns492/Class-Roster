@@ -2,7 +2,8 @@
 17MAY20 Push of C++ project
 Writtern in Visual Studio 2019. 
 
-When ran the command line application will automatically run a number of functions defined in the roster and student objects.
+When ran the command line application will automatically run a number of functions defined in the roster, degree and student objects.
+These commands are defined in the main.cpp script. 
 A description of the steps is as follows:
 
 1. The program will print entire class roster.
